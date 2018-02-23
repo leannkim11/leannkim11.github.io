@@ -4,7 +4,7 @@ header-img: img/home-bg.png
 email: leannminakim@gmail.com
 copyright_name: leannkim11
 description: > # this means to ignore newlines until "baseurl:"
-  Dumbed-down Guideline for Millennials 
+  Dumbed-down Coding 101
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  leannkim11
